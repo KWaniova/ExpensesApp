@@ -1,4 +1,4 @@
-# dices_app
+# ExpensesApp
 
 A new Flutter project.
 
